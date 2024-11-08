@@ -1,13 +1,18 @@
-import { FC } from "react";
 
-const HomePage: FC = () => {
-	return (
-		<>
-			<div className="bg-white w-full h-full text-black">
-				Test Pierwszego deploymentu
-			</div>
-		</>
-	);
-};
+      import React from 'react';
 
-export default HomePage;
+      const GeneratedPage: React.FC = () => {
+        return (
+          <>
+            <div className="bg-[#2acbb8] p-[20px] flex flex-column">
+        
+      </div>
+<div className="bg-[#c02121] p-[20px] flex flex-column">
+        
+      </div>
+          </>
+        );
+      };
+
+      export default GeneratedPage;
+    
