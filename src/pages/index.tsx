@@ -5,7 +5,9 @@
         return (
           <>
             <div className="bg-[#2acbb8] p-[20px] flex flex-column">
-        
+        <p className="text-[16px] text-[#000]">
+        Nowy tekst
+      </p>
       </div>
 <div className="bg-[#c02121] p-[20px] flex flex-column">
         
